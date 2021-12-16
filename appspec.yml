@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /mnt/efs/fs1/testcode/test
+    destination: /mnt/efs/fs1/testcode/test2
