@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /mnt/efs/fs1/testcode
+    destination: /var/www/gulf06test
